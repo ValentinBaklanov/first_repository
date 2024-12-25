@@ -1,5 +1,4 @@
 package com.aston.javabase;
-import java.util.Arrays;
 
 public class Homework {
 
